@@ -15,14 +15,17 @@ function App() {
         p >
         Edit < code > src / App.js < /code> and save to reload. <
         br / >
-        Updated by Atique and Jawwad < /p> <
+        Updated by Atique and Jawwad <
+        br / >
+        checking whether is is working auto after pushing to github <
+        /p> <
         a className = "App-link"
         href = "https://reactjs.org"
         target = "_blank"
         rel = "noopener noreferrer" >
         Learn React <
-        /a> <
-        /header> <
+        /a> < /
+        header > <
         /div>
     );
 }
